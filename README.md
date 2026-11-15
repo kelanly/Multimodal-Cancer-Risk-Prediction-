@@ -68,8 +68,6 @@ The first round of models scored near-perfect (XGBoost 1.000, most others 0.99+)
 - **Stable under CV:** all seven models cross-validated (Logistic Regression, Decision Tree, Random Forest, Extra Trees, AdaBoost, Gradient Boosting, SVM) show low fold-to-fold variation (SD 0.015 to 0.036).
 - **Takeaway:** a simple linear model matches or beats tree ensembles on this dataset.
 
-[One line on the train/test split: state whether synthetic rows appear in the test set.]
-
 ## Setup
 
 Requires Python 3.9+.
