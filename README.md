@@ -83,4 +83,4 @@ jupyter notebook
 
 ## Author
 
-Kelan, UC Davis (Data Science)
+Kelan Ly, UC Davis (Data Science)
