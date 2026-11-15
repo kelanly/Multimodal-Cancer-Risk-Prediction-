@@ -31,7 +31,7 @@ Run the notebooks in this order. Generation was written for Google Colab (uses `
 - **File:** `colon_cancer_extended.csv`
 - **Rows / columns:** [N rows, M columns] ([X] original, [Y] synthetic)
 - **Target:** `Risk_Level`
-- **Features:** [list or categories]
+- **Features:** 18 (Excluding Patient_ID, Cancer_Type, Overall_Risk_Score)
 
 > **Note:** Part of this dataset is synthetic. Results demonstrate a modeling workflow and are not clinical evidence.
 
