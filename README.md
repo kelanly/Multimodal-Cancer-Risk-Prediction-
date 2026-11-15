@@ -29,7 +29,7 @@ Run the notebooks in this order. Generation was written for Google Colab (uses `
 
 - **Source:** [name/link of the original cancer risk factors dataset]
 - **File:** `colon_cancer_extended.csv`
-- **Rows / columns:** [N rows, M columns] ([X] original, [Y] synthetic)
+- **Rows / columns:** 2400+ synthetic data across 5 cancer groups (Breast, Prostate, Skin, Colon, Lung)
 - **Target:** `Risk_Level`
 - **Features:** 18 (Excluding Patient_ID, Cancer_Type, Overall_Risk_Score)
 
